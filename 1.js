@@ -1,25 +1,4 @@
-// function vertMirror(strng) {
-//   let r = '';
-// let rr = ''
-// console.log("strng:",strng);
-
-// for (let j = strng.length - 1; j >= 0; j--) {
-//     r += strng[j]
-//     console.log("r:",r);
-// }
-// rr = r
-// console.log("rr:",rr);
-// }
-// vertMirror("abcd\nefgh\nijkl\nmnop")
-
-// function horMirror(strng) {
-//   // Your code
-// }
-
-// function oper(fct, s) {
-//   // Your code
-// }
-
+// Just a practice
 let quote = "He said,~I learned from freeCodeCamp!";
 let a = quote.split("~")
 let t = a[0]
